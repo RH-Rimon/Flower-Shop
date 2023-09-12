@@ -1,0 +1,160 @@
+/* Body part */
+
+body {
+
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Part */
+
+.section-01 {
+
+    display: flex;
+    width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    justify-content: space-between;
+    background-color: #E554731A;
+}
+
+.section-01 div {
+
+    gap: 95px;
+}
+
+.div-function-01 {
+
+    margin-top: 197px;
+    margin-left: 240px;
+}
+
+.header-01 {
+
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+
+}
+
+.description-01 {
+
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    width: 634px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.image-01 {
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+    margin-right: 240px;
+    margin-left: ;
+}
+
+.btn-01 {
+
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* Main Part */
+
+.section-02 {
+
+    margin-top: 178px;
+
+}
+
+.header-02 {
+
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.description-02 {
+
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 594px;
+    margin-left: 660px;
+    margin-right: 660px;
+
+
+}
+
+.section-03 {
+
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.section-03 div {
+
+    margin-left: 15px;
+    display: block;
+
+}
+
+.section-03 img {
+
+    width: 200px;
+    height: 300px;
+    flex-shrink: 0;
+
+}
+
+.section-03 h4 {
+
+    text-decoration: underline;
+    text-align: center;
+}
+
+.div-function-03>img {
+
+    border-radius: 300px 300px 0px 0px;
+    background: #A7216226;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+
+}
+
+.div-function-04>img {
+
+    border-radius: 300px 300px 0px 0px;
+    background: #0597A026;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+}
+
+.div-function-05>img {
+
+    border-radius: 300px 300px 0px 0px;
+    background: #477D1126;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+}
