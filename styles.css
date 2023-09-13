@@ -167,10 +167,45 @@ body {
     padding-top: 5px;
 }
 
-/* .section-04>div-function-06 {
 
+.section-11 {
+
+    background-color: #E554731A;
+    width: 1440px;
+    height: 900px;
+    flex-shrink: 0;
+    margin-bottom: 50px;
+    margin-left: 240px;
+    margin-right: 240px;
+
+}
+
+.input-01 {
+    width: 500px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0px;
+    color: #27272799;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.section-11 div {
+
+    display: inline-block;
     margin-left: 20px;
-} */
+    margin-top: 50px;
+}
+
+
+.header-20 {
+
+    font-size: 40px;
+    width: 500px;
+    font-weight: 800;
+}
 
 .image-03 {
 
@@ -251,4 +286,133 @@ body {
 
     margin-top: 100px;
     margin-right: 429px;
+}
+
+.section-06 {
+
+    margin-top: 130px;
+}
+
+.section-07 {
+
+    display: flex;
+    margin-left: 200px;
+    margin-top: 45px;
+    margin-right: 240px;
+
+}
+
+.image-05 {
+
+    margin-right: 25px;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+}
+
+.section-08 {
+
+
+    background-image: url('Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    margin: 128px 200px;
+}
+
+#email {
+
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0px;
+    color: #27272799;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.div-function-09 {
+
+    margin: 50px 150px 121px 250px;
+
+}
+
+.div-function-10 {
+
+    padding-top: 90px;
+    text-align: center;
+}
+
+.header-06 {
+
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.description-04 {
+
+    color: #27272799);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/* Footer part */
+
+.section-09 {
+
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+    margin-top: 100px;
+
+}
+
+.header-07 {
+
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+
+
+}
+
+.flower {
+
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.description-05 {
+
+
+    color: #FFFFFFE5;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+
+
+}
+
+.description-06 {
+
+    color: #FFFFFF66;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+
 }
